@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  max-width: 200px;
+  display: block;
+  margin: 0 auto;
+}
+
+.App-header {
+  margin: 30px;
+  background-color: #282c34;
+  min-height: 100vh;
+  color: white;
+}
+
