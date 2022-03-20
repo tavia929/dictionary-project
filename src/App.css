@@ -1,5 +1,14 @@
-.App {
+body {
   background-color: rgb(0, 60, 255);
+}
+
+a {
+  color: rgba(255, 255, 0, 0.808);
+}
+
+.App {
+  max-width: 960px;
+  margin: 0 auto;
 }
 
 .App-logo {
